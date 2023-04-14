@@ -180,7 +180,8 @@ Use the [json file](products.json) in this repo to set up the database.
       **Content:** <br />
 
   ```json
-  {"message": "Successfully created product."}
+  {"message": "Successfully created product.",
+  "data": []}
   ```
 
 * **Error Response:**
