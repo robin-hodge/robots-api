@@ -1,6 +1,7 @@
 # Robot Stores API
 
 Use the json file in this repo to set up the database.
+
 API documentation
 Return all products - optionally filtered
 
