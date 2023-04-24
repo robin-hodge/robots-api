@@ -14,7 +14,7 @@ Use the [json file](products.json) in this repo to set up the database.
 
   `GET`
 
-* **URL Params**
+* **Query Params**
 
   **Required:**
 
